@@ -1,0 +1,22 @@
+{
+  "contatos": [
+    {
+      "nome": "Paula Fernandes",
+      "data_nascimento": "1991-03-22",
+      "sexo": "Feminino",
+      "id": 1
+    },
+    {
+      "nome": "Rafael Neves",
+      "data_nascimento": "1997-06-10",
+      "sexo": "Masculino",
+      "id": 2
+    },
+    {
+      "nome": "Teste",
+      "data_nascimento": "1980-05-14",
+      "sexo": "Masculino",
+      "id": 3
+    }
+  ]
+}
